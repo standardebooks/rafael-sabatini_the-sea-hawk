@@ -52,38 +52,41 @@
 		<meta property="term" refines="#subject-7">sh2009114847</meta>
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">sh2008114764</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Adventure</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A Cornish gentleman becomes a Barbary corsair who seeks vengeance on the jealous half brother who betrayed him.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Sir Oliver Tressilian lives with his half brother, Lionel, in the Cornish estate of Penarrow. Oliver is in love with Rosamund Godolphin, who has pledged to marry Oliver when she comes of age. She lives with her brother Peter and her guardian, Sir John Killigrew. Both Peter and Sir John have no love for Oliver due to an old fued between Oliver’s and Peter’s fathers. When Lionel kills Peter in a duel, Oliver protects him by allowing it to be believed that Oliver himself killed Peter. The cowardly Lionel, believing that Oliver will eventually expose him as the murderer, arranges to have Oliver kidnapped and sold into slavery. When the ship on which Oliver is held is captured by the Spanish, Oliver is found guilty of piracy by Spain for his past actions and is sentenced to be a slave manning the oars of a Spanish galley. For six months Oliver toils at the oars of a Spanish galley when it is attacked by Muslim corsairs and he achieves his freedom by embracing Islam and joining the corsairs. Over time, he becomes known as Sakr-El-Bahr, “The Hawk of the Sea,” and moves up the ranks to become the right hand man of Asad-ed-Din, the most famous corsair of Algiers.&lt;/p&gt;
+			&lt;p&gt;Oliver uses his position to return to England to wreak vengeance upon Lionel, who has taken over Oliver’s estate and has become betrothed to Oliver’s beloved Rosamund. What follows is a grand, swashbuckling adventure as only &lt;a href="https://standardebooks.org/ebooks/rafael-sabatini"&gt;Sabatini&lt;/a&gt; can write.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/rafael-sabatini"&gt;Rafael Sabatini&lt;/a&gt; (1875⁠-1950) was an Italian/British writer of novels of romance and adventure. At a young age, he was exposed to many languages. By the time he was seventeen, he was the master of five languages. He quickly added a sixth language⁠—English⁠—to his linguistic collection. After a brief stint in the business world, he went to work as a writer. He wrote short stories in the 1890s, and his first novel came out in 1902. He was a prolific writer; he produced a new book approximately every year. He consciously chose to write in his adopted language, because, he said, “all the best stories are written in English.” In all, he produced thirty one novels, eight short story collections, six nonfiction books, numerous uncollected short stories, and a play. He is best known for his worldwide bestsellers: &lt;i&gt;The Sea Hawk&lt;/i&gt; (1915), &lt;a href="https://standardebooks.org/ebooks/rafael-sabatini/scaramouche"&gt;&lt;i&gt;Scaramouche&lt;/i&gt;&lt;/a&gt; (1921), &lt;a href="https://standardebooks.org/ebooks/rafael-sabatini/captain-blood"&gt;&lt;i&gt;Captain Blood&lt;/i&gt;&lt;/a&gt; (1922) and &lt;i&gt;Bellarion the Fortunate&lt;/i&gt; (1926).&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3294</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://books.google.com/books?id=7rYNAQAAIAAJ</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Sea_Hawk</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/rafael-sabatini_the-sea-hawk</meta>
 		<dc:creator id="author">Rafael Sabatini</dc:creator>
 		<meta property="file-as" refines="#author">Sabatini, Rafael</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Rafael_Sabatini</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50016255</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Harold Mathews Brett</dc:contributor>
+		<meta property="file-as" refines="#artist">Brett, Harold Mathews</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Harold_Mathews_Brett</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no95003402</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">John Stuart Middleton</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Middleton, John Stuart</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
+		<meta property="se:url.authority.nacoaf" refines="#transcriber-2">http://id.loc.gov/authorities/names/no2011017869</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Kevin Palm</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Palm, Kevin</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
