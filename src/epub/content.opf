@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/rafael-sabatini/the-sea-hawk</dc:identifier>
 		<dc:date>2023-04-20T19:19:12Z</dc:date>
@@ -56,12 +56,12 @@
 		<meta property="term" refines="#subject-8">sh2008114764</meta>
 		<meta property="schema:genre">Adventure</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A Cornish gentleman becomes a Barbary corsair and seeks vengeance on the jealous half brother who betrayed him.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A Cornish gentleman becomes a Barbary corsair and seeks vengeance on the jealous half brother who betrayed him.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Sir Oliver Tressilian, a retired seafarer, lives in Cornwall with his half-brother Lionel. After Lionel kills the brother of Oliver’s beloved Rosamund, Oliver protects him by letting it be assumed that he himself did the deed. Lionel, becoming paranoid that Oliver will one day expose him, has Oliver kidnapped and sold into slavery. After Oliver’s ship is attacked by Muslim corsairs, Oliver regains his freedom by joining them and embracing Islam. He eventually rises to the position of the leader’s right hand man and earns the title of Sakr-El-Bahr—“The Hawk of the Sea” for his daring.&lt;/p&gt;
 			&lt;p&gt;Despite his success with the corsairs, Oliver never forgets the wrongs that were inflicted on him and, when the opportunity arises, he maneuvers to seek vengeance on Lionel and to reclaim the heart of Rosamund. What follows is a grand, swashbuckling adventure as only &lt;a href="https://standardebooks.org/ebooks/rafael-sabatini"&gt;Sabatini&lt;/a&gt; can write.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Sea Hawk&lt;/i&gt; inspired two movies, the most recent of which premiered in 1940 and starred Errol Flynn.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3294</dc:source>
 		<dc:source>https://books.google.com/books?id=7rYNAQAAIAAJ</dc:source>
